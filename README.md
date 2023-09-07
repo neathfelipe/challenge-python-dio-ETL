@@ -12,7 +12,7 @@ pip install openpyxl requests
 
 ## Como Usar
 
-1. Execute o programa digitando `python seu_programa.py` no terminal.
+1. Execute o programa digitando `python principal.py` no terminal.
 
 2. Você será solicitado a inserir seu nome, um valor em Reais (BRL) e a moeda de destino para a conversão.
 
